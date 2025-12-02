@@ -23,7 +23,7 @@ CREATE TABLE product_categories (
 );
 
 
-CREATE TABLE products (  
+CREATE TABLE products (
                           product_id SERIAL PRIMARY KEY,
                           product_name TEXT NOT NULL,
                           category_id SERIAL NOT NULL,
