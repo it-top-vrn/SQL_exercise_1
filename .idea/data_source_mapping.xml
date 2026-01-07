@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/schema/01_create_users_table.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/schema/02_create_employees_table.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/schema/03_create_employee_salaries_table.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/schema/enum_types.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/sport_shop.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/triggers/01_auto_close_previous_rate.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+    <file url="file://$PROJECT_DIR$/triggers/02_trg_calculate_total_payment.sql" value="3b56ef50-3f2f-45b8-ba06-615f23212865" />
+  </component>
+</project>
